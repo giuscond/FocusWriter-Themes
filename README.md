@@ -10,12 +10,12 @@
 ### CRT White
 **Font:** perfect dos 
 
-![CRT White](/img/crt_white.jpg)
+![CRT White](/img/crtwhite.jpg)
 
 ### CRT Green
 **Font:** perfect dos
 
-![CRT White](/img/crt_green.jpg)
+![CRT White](/img/crtgreen.jpg)
 
 ### Old School Typewriter
 **Font:** TravelingTypewriter
